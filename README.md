@@ -136,10 +136,11 @@ sns.heatmap(df.corr(),annot=True)
 ![ds4out6](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/44943313-f3de-4f6e-8bcc-a4e8b9ca018f)
 ### Bar plot
 ![ds4out7](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/376a9c37-99a8-438c-b789-8f1ed060feca)
-### Box plot
 ![ds4out8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/b7978f6a-dba2-44b4-bcfe-4f092ad94502)
+### Box plot
+![ds4out9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/8113e9d6-760a-4ebd-ada2-e07b135fe88d)
 ### Dist plot
-![ds4out10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/34b58c4d-e15e-45f7-b72c-76b84b8d10a9)
+![ds4out10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/f5a6c88f-96fc-4386-9942-405416675c30)
 ### correlation coefficient interpretation
 ![ds4out11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/bfdd3477-ebf5-4050-83b4-b67eb88ed656)
 ### Heat map
