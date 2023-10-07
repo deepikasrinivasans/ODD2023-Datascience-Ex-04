@@ -120,5 +120,6 @@ sns.heatmap(df.corr(),annot=True)
 ### Correlation coefficient interpretation
 ![ds4new11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/84629696-760d-4937-bb97-8cf7b560cb33)
 ### Heat map
-![ds4new10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/7ea3e1cf-e276-43e9-8ec0-725bbff2e290)
+![ds4new12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/cb00733f-dbfd-4557-bd77-40a931e1fade)
+
 ## DATA FRAME FOR DIABETES
