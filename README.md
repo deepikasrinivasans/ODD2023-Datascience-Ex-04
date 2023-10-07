@@ -65,7 +65,7 @@ sns.heatmap(df.corr(),annot=True)
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-df=pd.read_csv("/content/diabetes.csv")
+df=pd.read_csv("/content/diabetes (1).csv")
 df
 df.describe()
 df.info
@@ -98,6 +98,7 @@ df.corr()
 sns.heatmap(df.corr(),annot=True)
 ```
 ## OUTPUT:
+## SUPERSTORE:
 ### DATA FRAME OF SUPERSTORE
 ![ds4 superstore](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/022389f4-1c5a-4dab-9f66-40913683c510)
 ### Data information
@@ -121,5 +122,28 @@ sns.heatmap(df.corr(),annot=True)
 ![ds4new11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/84629696-760d-4937-bb97-8cf7b560cb33)
 ### Heat map
 ![ds4new12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/cb00733f-dbfd-4557-bd77-40a931e1fade)
+## DIABETES
+### DATA FRAME FOR DIABETES
+![ds4out1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/fcfbbfc1-0c54-4f67-9e13-de9fc341f1df)
+### Data information
+![ds4out2](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/c2f65e2f-1a70-4b4d-868d-ae2d370ad9bf)
+### Data describing
+![ds4out3](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/01574db4-64e6-413d-a159-736e49072e4e)
+### Sum of null values
+![ds4out4](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/f011e0b6-e97c-4c53-ba5d-b5cb3f790332)
+### Scatter plot
+![ds4out5](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/537e88bc-a9c5-40db-989c-c082feb1ebbe)
+![ds4out6](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/44943313-f3de-4f6e-8bcc-a4e8b9ca018f)
+### Bar plot
+![ds4out7](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/376a9c37-99a8-438c-b789-8f1ed060feca)
+### Box plot
+![ds4out8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/b7978f6a-dba2-44b4-bcfe-4f092ad94502)
+### Dist plot
+![ds4out10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/34b58c4d-e15e-45f7-b72c-76b84b8d10a9)
+### correlation coefficient interpretation
+![ds4out11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/bfdd3477-ebf5-4050-83b4-b67eb88ed656)
+### Heat map
+![ds4out12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-04/assets/119393935/fca0d579-70b6-43c7-8ce1-e94eb9659e34)
 
-## DATA FRAME FOR DIABETES
+## RESULT:
+Thus we have read the given data and performed the multivariate analysis with different types of plots.
